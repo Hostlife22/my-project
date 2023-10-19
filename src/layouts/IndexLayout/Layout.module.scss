@@ -1,0 +1,23 @@
+.container {
+  padding: 20px;
+}
+
+.title {
+  font-size: 40px;
+  text-align: center;
+}
+
+.navigation {
+  display: flex;
+  gap: 20px;
+  font-size: 20px;
+}
+
+.loading {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #80808054;
+}
